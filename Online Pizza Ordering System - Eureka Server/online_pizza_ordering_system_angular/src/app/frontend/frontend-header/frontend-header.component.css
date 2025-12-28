@@ -1,0 +1,11 @@
+ul#navigation a {
+    color: #FFF;
+}
+span.ltr {
+    color: #83401c;
+    font-weight: bold;
+}
+
+ul#navigation .submenu li a{
+    color: #83401c !important;
+}
